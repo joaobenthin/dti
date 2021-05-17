@@ -30,10 +30,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/empty.jpg" alt="Empty">
-<img src="images/list.jpg" alt="List">
-<img src="images/orderby.jpg" alt="Order By">
-<img src="images/details.jpg" alt="Details">
+<img src="images/empty.jpg" alt="Empty" width="256">
+<img src="images/list.jpg" alt="List" width="256">
+<img src="images/orderby.jpg" alt="Order By" width="256">
+<img src="images/details.jpg" alt="Details" width="256">
 
 
 
